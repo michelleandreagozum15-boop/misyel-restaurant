@@ -23,7 +23,7 @@ export default function Contact() {
               <strong>Phone:</strong> 63+++++++
             </p>
             <p>
-              <strong>Email:</strong> NoakRestaurant@Gmail.com
+              <strong>Email:</strong> MishelRestaurant@Gmail.com
             </p>
           </div>
 
