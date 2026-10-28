@@ -20,7 +20,7 @@ export default function Home() {
         <div className="container hero-copy">
           <h1>WELCOME TO MISHEL RESTAURANT</h1>
           <p>
-            Experience the best cuisine in the city.Enjoy our signature dishes
+            Experience the best cuisine in the city. Enjoy our signature dishes
             and cozy ambiance.
           </p>
         </div>
